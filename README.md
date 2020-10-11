@@ -4,6 +4,11 @@ Compilation of small snippets that I found useful or interesting. Inspired by Jo
 
 ----------------
 
+## Ruby
+
+- [Custom REPL](ruby/custom-repl.md)
+
+
 ## Shell
 
 - [Gather text from multiple files](shell/gather-text-from-multiple-files.md)
